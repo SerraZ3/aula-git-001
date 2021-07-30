@@ -1,2 +1,3 @@
 # aula-git-001
-Aula de github para colearning
+Aula de gi
+thub para colearning
