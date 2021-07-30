@@ -5,3 +5,5 @@ thub para colearning
 Testando o pull
 
 Outro texto diferente do dela
+Ambas foram aceitas
+Testando pull novamente
